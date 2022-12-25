@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Baek_1000.h"
+#include "Baek_9093.h"
 
 using namespace std;
 
@@ -11,7 +11,7 @@ static void Solve(T question){
 
 int main() {
     //확인하고 싶을 경우 클래스를 수정.
-    Baek_1000 quest;
+     Baek_9093 quest;
 
     Solve(quest);
     return 0;
