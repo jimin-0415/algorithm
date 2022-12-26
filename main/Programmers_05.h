@@ -4,7 +4,7 @@
 
 #include "Common.h"
 #include <vector>
-//약수 구하기
+//약수 구하기 [Level 0]
 // 기본 약수에 대한 개념만을 알면 풀 수 있습니다.
 //링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120897
 class Programmers_05 : public Question
