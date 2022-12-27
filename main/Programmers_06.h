@@ -7,7 +7,7 @@
 //두수의 합 [Level 0]
 //
 //링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120897
-class Programmers_05 : public Question
+class Programmers_06 : public Question
 {
 public:
     void Result() override
