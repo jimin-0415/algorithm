@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Programmers_15.h"
+#include "Programmers_16.h"
 
 using namespace std;
 
@@ -11,7 +11,7 @@ static void Solve(T question){
 
 int main() {
     //확인하고 싶을 경우 클래스를 수정.
-    Programmers_15 quest;
+    Programmers_16 quest;
 
     Solve(quest);
     return 0;
